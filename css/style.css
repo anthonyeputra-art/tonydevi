@@ -1806,8 +1806,8 @@ form label {
 /* Mobile optimizations */
 @media screen and (max-width: 768px) {
   #fh5co-header .btn {
-    font-size: 1.5em !important;
-    padding: 10px 20px !important;
+    font-size: 2em !important;
+    padding: 15px 30px !important;
   }
   .flipTimebox {
     text-align: center;
@@ -1827,7 +1827,7 @@ form label {
 }
 
 #fh5co-event {
-  padding-top: 3em;
+  padding-top: 1em;
 }
 
 /*# sourceMappingURL=style.css.map */
