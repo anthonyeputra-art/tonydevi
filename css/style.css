@@ -1803,5 +1803,32 @@ form label {
   opacity: 0;
 }
 
+/* Mobile optimizations */
+@media screen and (max-width: 768px) {
+  #fh5co-header .btn {
+    font-size: 1.5em !important;
+    padding: 10px 20px !important;
+  }
+  .flipTimebox {
+    text-align: center;
+  }
+  .clock {
+    display: inline-block;
+    margin: 0 auto;
+  }
+  .event-wrap iframe {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.flipTimebox {
+  margin-bottom: 20px;
+}
+
+#fh5co-event {
+  padding-top: 3em;
+}
+
 /*# sourceMappingURL=style.css.map */
 
